@@ -5259,7 +5259,7 @@ msgstr "Gözden Geçirme Durumu"
 
 #: plone.stringinterp/plone/stringinterp/adapters.py:343
 msgid "Review State Title"
-msgstr ""
+msgstr "Gözden geçirme durumu başlığı"
 
 #: CMFPlone/profiles/dependencies/portlets.xml
 #: plone.app.portlets/plone/app/portlets/portlets/review.py:63
@@ -5270,14 +5270,14 @@ msgstr "Gözden geçirilecekler"
 #: plone.app.querystring/plone/app/querystring/profiles/default/registry.xml
 #: plone.app.vocabularies/plone/app/vocabularies/metadatafields.py:24
 msgid "Review state"
-msgstr ""
+msgstr "Gözden geçirme durumu"
 
 msgid "Reviewer"
 msgstr "Hakem"
 
 #: plone.app.discussion/plone/app/discussion/profiles/default/workflows/comment_review_workflow/definition.xml
 msgid "Reviewer approves content"
-msgstr ""
+msgstr "Hakem içeriği onaylar"
 
 #. Default: "Reviewer makes content available externally"
 #: CMFPlone/profiles/default/workflows/intranet_workflow/definition.xml
@@ -5305,11 +5305,11 @@ msgstr "Hakem içeriği yeniden yazılması için geri gönderir"
 #: CMFPlone/profiles/default/workflows/intranet_workflow/definition.xml
 #: CMFPlone/profiles/default/workflows/plone_workflow/definition.xml
 msgid "Reviewer tasks"
-msgstr "Hakem işleri"
+msgstr "Hakem görevleri"
 
 #: plone.stringinterp/plone/stringinterp/adapters.py:516
 msgid "Reviewers E-Mails"
-msgstr ""
+msgstr "Hakem e-postaları"
 
 #: plone.app.textfield/plone/app/textfield/editor.py:36
 msgid "Rich Text"
