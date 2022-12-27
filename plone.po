@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Plone\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI +ZONE\n"
-"PO-Revision-Date: 2022-12-23 13:46+0300\n"
+"PO-Revision-Date: 2022-12-27 13:45+0300\n"
 "Last-Translator: H. Turgut Uyar <uyar@itu.edu.tr>\n"
 "Language-Team: H. Turgut Uyar <uyar@itu.edu.tr>\n"
 "MIME-Version: 1.0\n"
@@ -10366,7 +10366,7 @@ msgstr "Hangi formatı seçeceğinizi bilemiyorsanız, Düz Metin seçeneğini s
 #. Default: "Enter full name, e.g. John Smith."
 #: plone.app.users/plone/app/users/schema.py:77
 msgid "help_full_name_creation"
-msgstr "Tam ismi yazın (örneğin Deniz Karasu)."
+msgstr "Tam ismi yazın (örneğin Deniz Atay)."
 
 #. Default: "If selected, users are able to post comments on the site. However, you will still need to enable comments for specific content types, folders or content objects before users will be able to post comments."
 #: plone.app.discussion/plone/app/discussion/interfaces.py:215
@@ -10916,7 +10916,7 @@ msgstr ""
 #. Default: "Enter a user name, usually something like 'jsmith'. No spaces or special characters. Usernames and passwords are case sensitive, make sure the caps lock key is not enabled. This is the name used to log in."
 #: plone.app.users/plone/app/users/schema.py:94
 msgid "help_user_name_creation_casesensitive"
-msgstr "Almak istediğiniz kullanıcı ismini yazın (örneğin 'dkarasu'). İçinde boşluk ya da noktalama işareti geçmemelidir. Kullanıcı isimleri ve parolalarda büyük-küçük harf ayrımı vardır; caps lock tuşunun basılı olmamasına dikkat edin. Siteye girmek için bu ismi kullanacaksınız."
+msgstr "Almak istediğiniz kullanıcı ismini yazın (örneğin 'denizatay'). İçinde boşluk ya da noktalama işareti geçmemelidir. Kullanıcı isimleri ve parolalarda büyük-küçük harf ayrımı vardır; caps lock tuşunun basılı olmamasına dikkat edin. Siteye girmek için bu ismi kullanacaksınız."
 
 #. Default: "If selected, users can choose to be notified of new comments by email."
 #: plone.app.discussion/plone/app/discussion/interfaces.py:366
