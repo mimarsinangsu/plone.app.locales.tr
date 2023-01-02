@@ -10627,7 +10627,7 @@ msgstr "E-posta adresinizi yazın, size kullanıcı isminizi yollayalım."
 #. Default: "Enter your username or email and we’ll send you a password reset link."
 #: CMFPlone/interfaces/login.py:66
 msgid "help_pwreset_username"
-msgstr "Kullanıcı isminizi ya da e-posta adresinizi yazın, size parolanızı sıfırlamak için bir bağlantı yollayalım."
+msgstr "Kullanıcı isminizi ya da e-posta adresinizi yazın, size parolanızı baştan oluşturmanız için bir bağlantı yollayalım."
 
 #. Default: "Enter the time, in seconds, before attempts to clean up the cache. A lower value may reduce memory consumption by purging items frequently, but can also slow down the system by tying up the cache with maintenance tasks for too long."
 #: plone.app.caching/plone/app/caching/browser/controlpanel.pt:361
@@ -14265,7 +14265,7 @@ msgstr ""
 #. Default: "Plone Footerportlets"
 #: plone.app.contentmenu/plone/app/contentmenu/menu.py:911
 msgid "plone.footerportlets"
-msgstr ""
+msgstr "Plone altlık portletleri"
 
 #: plone.formwidget.recurrence/plone/formwidget/recurrence/configure.zcml:20
 msgid "plone.formwidget.recurrence"
@@ -14278,7 +14278,7 @@ msgstr ""
 #. Default: "Plone Leftcolumn"
 #: plone.app.contentmenu/plone/app/contentmenu/menu.py:911
 msgid "plone.leftcolumn"
-msgstr ""
+msgstr "Plone sol sütun"
 
 #: plone.protect/plone/protect/configure.zcml:30
 msgid "plone.protect configuration"
@@ -14287,17 +14287,17 @@ msgstr ""
 #. Default: "Plone Rightcolumn"
 #: plone.app.contentmenu/plone/app/contentmenu/menu.py:911
 msgid "plone.rightcolumn"
-msgstr ""
+msgstr "Plone sağ sütun"
 
 #. Default: "Zope is restarting. This page will refresh in 30 seconds..."
 #: CMFPlone/controlpanel/browser/maintenance.py:123
 msgid "plone_restarting"
-msgstr ""
+msgstr "Zope yeniden başlatılıyor. Bu sayfa 30 saniye içinde yeniden yüklenecek..."
 
 #. Default: "Zope is shutting down."
 #: CMFPlone/controlpanel/browser/maintenance.py:97
 msgid "plone_shutdown"
-msgstr ""
+msgstr "Zope kapatılıyor."
 
 #. Default: "This is the portal actions configuration section, you can manage the actions contained in the different action categories."
 #: CMFPlone/controlpanel/browser/actions.pt:16
@@ -14307,7 +14307,7 @@ msgstr ""
 #. Default: "Portal actions"
 #: CMFPlone/controlpanel/browser/actions.pt:13
 msgid "portal_actions_controlpanel_header"
-msgstr ""
+msgstr "Portal eylemleri"
 
 #. Default: "Select search base Folder or Collection to search for events. The URL to to this item will also be used to link to in calendar searches. If empty, the whole site will be searched and the event listing view will be called on the site root."
 #: plone.app.event/plone/app/event/portlets/portlet_calendar.py:65
